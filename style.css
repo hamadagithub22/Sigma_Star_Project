@@ -312,7 +312,7 @@ header ul{
 
 
 .card-content .card-logo i{
-    color: aqua;
+    color:  #0088aa;
     font-size: 30px;
   
 }
@@ -359,7 +359,11 @@ header ul{
     
 }
 
-
+.car{
+    color: #0088aa;
+    text-align: center;
+    font-size: 30px;
+}
 
 
 
